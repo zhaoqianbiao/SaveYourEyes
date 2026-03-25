@@ -8,11 +8,13 @@
 
 /* Begin PBXBuildFile section */
 		62647A1B2F73992300049119 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 62647A1A2F73991E00049119 /* .gitignore */; };
+		62647A1D2F7399B600049119 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 62647A1C2F7399AA00049119 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		62647A0A2F73941F00049119 /* SaveYourEyes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SaveYourEyes.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		62647A1A2F73991E00049119 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		62647A1C2F7399AA00049119 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -37,6 +39,7 @@
 		62647A012F73941F00049119 = {
 			isa = PBXGroup;
 			children = (
+				62647A1C2F7399AA00049119 /* README.md */,
 				62647A1A2F73991E00049119 /* .gitignore */,
 				62647A0C2F73941F00049119 /* SaveYourEyes */,
 				62647A0B2F73941F00049119 /* Products */,
@@ -126,6 +129,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				62647A1D2F7399B600049119 /* README.md in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
