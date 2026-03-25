@@ -1,0 +1,37 @@
+# macOS
+.DS_Store
+
+# Xcode
+build/
+DerivedData/
+
+# User-specific settings
+xcuserdata/
+*.xcuserstate
+*.xcworkspace
+
+# Swift Package Manager
+.build/
+Packages/
+
+# CocoaPods（如果以后用的话）
+Pods/
+
+# Carthage（如果以后用）
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# Archives
+*.xcarchive
+
+# Temporary files
+*.swp
+*.lock
+
+# Logs
+*.log
